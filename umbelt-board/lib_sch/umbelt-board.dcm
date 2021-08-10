@@ -1,39 +1,76 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP ULN2002
-D High Voltage, High Current Darlington Transistor Arrays, SOIC16/SOIC16W/DIP16/TSSOP16
-K darlington transistor array
-F http://www.ti.com/lit/ds/symlink/uln2003a.pdf
+$CMP AP2112K-3.3
+D 150mA low dropout linear regulator, wide input voltage range, 1.5V fixed positive output, SOT-23-5
+K linear regulator ldo fixed positive
+F https://www.diodes.com/assets/Datasheets/AP2112.pdf
 $ENDCMP
 #
-$CMP ULN2002A
-D High Voltage, High Current Darlington Transistor Arrays, SOIC16/SOIC16W/DIP16/TSSOP16
-K darlington transistor array
-F http://www.ti.com/lit/ds/symlink/uln2003a.pdf
+$CMP Conn_Bat
+D Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_Flex_Motor
+D Rigid-to-flex PCB connector
+$ENDCMP
+#
+$CMP DMG2305
+D -4.2A Id, -20V Vds, P-Channel MOSFET, SOT-23
+K P-Channel MOSFET
+F https://www.diodes.com/assets/Datasheets/DMG2305UX.pdf
+$ENDCMP
+#
+$CMP MBR0540
+D 40V 0.5A Schottky Power Rectifier Diode, SOD-123
+K diode Schottky
+F www.st.com/resource/en/datasheet/bat48.pdf
+$ENDCMP
+#
+$CMP MCP73831-2ACI_OT
+D Single cell, Li-Ion/Li-Po charge management controller, 4.20V, Status Output, in SOT23-5 package
+K battery charger lithium
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf
+$ENDCMP
+#
+$CMP MDBT50Q-1MV2
+D Nordic 52840 Chip Antenna Bluetooth Module
+K bluetooth ble nordic nrf52840 module
+$ENDCMP
+#
+$CMP Qwiic
+D Qwiic connector, single row, 01x04, JST-SH family header
+K connector
+F https://www.jst-mfg.com/product/pdf/eng/eSH.pdf
+$ENDCMP
+#
+$CMP SW_Push
+D Push button switch, generic, two pins
+K switch normally-open pushbutton push-button
+F ~
+$ENDCMP
+#
+$CMP SW_SPST
+D Single Pole Single Throw (SPST) switch
+K switch lever
+F ~
+$ENDCMP
+#
+$CMP TC2030-CTX-NL
+D 6-Pin TC2030 Plug-of-Nails Connector for ARM Cortex 10-pin SWD Cable
+K SWD plug nails 6-pin arm cortex
 $ENDCMP
 #
 $CMP ULN2003
-D High Voltage, High Current Darlington Transistor Arrays, SOIC16/SOIC16W/DIP16/TSSOP16
+D ChannelRelay and InductiveLoad Sink Driver
 K darlington transistor array
-F http://www.ti.com/lit/ds/symlink/uln2003a.pdf
+F https://www.ti.com/lit/ds/symlink/uln2003v12.pdf
 $ENDCMP
 #
-$CMP ULN2003A
-D High Voltage, High Current Darlington Transistor Arrays, SOIC16/SOIC16W/DIP16/TSSOP16
-K darlington transistor array
-F http://www.ti.com/lit/ds/symlink/uln2003a.pdf
-$ENDCMP
-#
-$CMP ULN2004
-D High Voltage, High Current Darlington Transistor Arrays, SOIC16/SOIC16W/DIP16/TSSOP16
-K darlington transistor array
-F http://www.ti.com/lit/ds/symlink/uln2003a.pdf
-$ENDCMP
-#
-$CMP ULN2004A
-D High Voltage, High Current Darlington Transistor Arrays, SOIC16/SOIC16W/DIP16/TSSOP16
-K darlington transistor array
-F http://www.ti.com/lit/ds/symlink/uln2003a.pdf
+$CMP VBAT
+D Power symbol creates a global label with name "VBAT"
+K power-flag
 $ENDCMP
 #
 #End Doc Library
