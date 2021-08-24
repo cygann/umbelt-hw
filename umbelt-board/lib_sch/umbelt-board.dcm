@@ -1,0 +1,127 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AO3415A
+D -5A Id, -20V Vds, P-Channel MOSFET, SOT-23
+K P-Channel MOSFET
+F https://media.digikey.com/pdf/Data%20Sheets/Alpha%20&%20Omega/AO3415A.pdf
+$ENDCMP
+#
+$CMP AP7366-33W5
+D 150mA low dropout linear regulator, wide input voltage range, 1.5V fixed positive output, SOT-23-5
+K linear regulator ldo fixed positive
+F https://www.diodes.com/assets/Datasheets/AP7366.pdf
+$ENDCMP
+#
+$CMP BM02B-ACHLKS
+D JST battery connector, single row, 01x02, top entry, side feed, low profile 1.2mm
+K connector battery low profile
+F https://www.jst-mfg.com/product/pdf/eng/eACHL.pdf
+$ENDCMP
+#
+$CMP Conn_01x06
+D Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_Flex_Motor
+D Rigid-to-flex PCB connector
+$ENDCMP
+#
+$CMP Conn_Indiv_Motor
+D Individual Motor Connector
+$ENDCMP
+#
+$CMP DRV8601
+D Haptic Motor Driver ERM/LRA Fast Turnon
+K haptic driver erm lra
+F https://www.ti.com/lit/ds/symlink/drv8601.pdf
+$ENDCMP
+#
+$CMP ICM-20608
+D High performance 6-Axis MEMS motion tracking, SPI/I2C interface, LGA-16
+K accelerometer gyro mems motion
+F https://invensense.tdk.com/wp-content/uploads/2015/03/DS-000081-v1.01.pdf
+$ENDCMP
+#
+$CMP MBR0520
+D 40V 0.5A Schottky Power Rectifier Diode, SOD-123
+K diode Schottky
+F https://www.mccsemi.com/pdf/Products/MBR0520-MBR0580(SOD123).pdf
+$ENDCMP
+#
+$CMP MCP73832-2ACI_MC‎
+D Single cell, Li-Ion/Li-Po charge management controller, 4.20V, Status Output, 8-DFN
+K battery charger lithium
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf
+$ENDCMP
+#
+$CMP MDBT50Q-1MV2
+D Nordic 52840 Chip Antenna Bluetooth Module
+K bluetooth ble nordic nrf52840 module
+F https://www.raytac.com/download/index.php?index_id=43
+$ENDCMP
+#
+$CMP MMC5633NJL
+D 30 Gauss Magnetometer 4-WFBGA
+K magnetometer
+F https://media.digikey.com/pdf/Data%20Sheets/MEMSIC%20PDFs/MMC5633NJL_RevA_3-12-20.pdf
+$ENDCMP
+#
+$CMP MX25R1635FZUIL0
+D IC Flash 16MBit SPI/QUAD 8USON
+F https://www.macronix.com/Lists/Datasheet/Attachments/7595/MX25R1635F%2c%20Wide%20Range%2c%2016Mb%2c%20v1.6.pdf
+$ENDCMP
+#
+$CMP PAM8016
+D IC Motor Driver Haptic ERM LRA 2.8-5.5V
+K erm lra motor haptic
+F https://www.diodes.com/assets/Datasheets/PAM8016.pdf
+$ENDCMP
+#
+$CMP SM04B-SRSS-TB
+D Qwiic connector, single row, 01x04, JST-SH family header
+K connector
+F https://www.jst-mfg.com/product/pdf/eng/eSH.pdf
+$ENDCMP
+#
+$CMP SPK0641HT4H-1
+D PDM Mic Multimode Digital Top Port
+K pdm mic top port
+F https://www.knowles.com/docs/default-source/model-downloads/spk0641ht4h-1-rev-a.pdf
+$ENDCMP
+#
+$CMP SW_SPST
+D Single Pole Single Throw (SPST) switch
+K switch lever
+F ~
+$ENDCMP
+#
+$CMP TC2030-CTX-NL
+D 6-Pin TC2030 Plug-of-Nails Connector for ARM Cortex 10-pin SWD Cable
+K SWD plug nails 6-pin arm cortex
+$ENDCMP
+#
+$CMP TC2050-IDC-NL
+D Plug-of-Nails 10-Pin
+F https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/TC2050-IDC-NL_Datasheet_8.pdf
+$ENDCMP
+#
+$CMP ULN2003V12
+D ChannelRelay and InductiveLoad Sink Driver
+K darlington transistor array
+F https://www.ti.com/lit/ds/symlink/uln2003v12.pdf
+$ENDCMP
+#
+$CMP USB4105-GF-A
+D USB 2.0-only Type-C Receptacle connector
+K usb universal serial bus type-C USB2.0
+F https://gct.co/connector/usb4105
+$ENDCMP
+#
+$CMP VBAT
+D Power symbol creates a global label with name "VBAT"
+K power-flag
+$ENDCMP
+#
+#End Doc Library
