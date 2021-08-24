@@ -18,12 +18,6 @@ K connector battery low profile
 F https://www.jst-mfg.com/product/pdf/eng/eACHL.pdf
 $ENDCMP
 #
-$CMP Conn_01x06
-D Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)
-K connector
-F ~
-$ENDCMP
-#
 $CMP Conn_Flex_Motor
 D Rigid-to-flex PCB connector
 $ENDCMP

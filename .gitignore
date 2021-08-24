@@ -6,6 +6,6 @@
 *-cache.lib
 *.sch-bak
 *.bck
-*.bak
+*bak
 *.000
 fp-info-cache

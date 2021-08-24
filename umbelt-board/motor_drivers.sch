@@ -26,8 +26,8 @@ F0 "motor_driver_1" 50
 F1 "motor_driver.sch" 50
 F2 "PWM" I L 2500 1100 50 
 F3 "EN" I L 2500 1200 50 
-F5 "OUT-" O R 3150 1200 50 
-F6 "OUT+" O R 3150 1100 50 
+F4 "OUT-" O R 3150 1200 50 
+F5 "OUT+" O R 3150 1100 50 
 $EndSheet
 Wire Wire Line
 	2250 1100 2500 1100
@@ -63,8 +63,8 @@ F0 "motor_driver_2" 50
 F1 "motor_driver.sch" 50
 F2 "PWM" I L 5000 1100 50 
 F3 "EN" I L 5000 1200 50 
-F5 "OUT-" O R 5650 1200 50 
-F6 "OUT+" O R 5650 1100 50 
+F4 "OUT-" O R 5650 1200 50 
+F5 "OUT+" O R 5650 1100 50 
 $EndSheet
 Wire Wire Line
 	4750 1100 5000 1100
@@ -89,8 +89,8 @@ F0 "motor_driver_3" 50
 F1 "motor_driver.sch" 50
 F2 "PWM" I L 2500 2100 50 
 F3 "EN" I L 2500 2200 50 
-F5 "OUT-" O R 3150 2200 50 
-F6 "OUT+" O R 3150 2100 50 
+F4 "OUT-" O R 3150 2200 50 
+F5 "OUT+" O R 3150 2100 50 
 $EndSheet
 Wire Wire Line
 	2250 2100 2500 2100
@@ -115,8 +115,8 @@ F0 "motor_driver_4" 50
 F1 "motor_driver.sch" 50
 F2 "PWM" I L 5000 2100 50 
 F3 "EN" I L 5000 2200 50 
-F5 "OUT-" O R 5650 2200 50 
-F6 "OUT+" O R 5650 2100 50 
+F4 "OUT-" O R 5650 2200 50 
+F5 "OUT+" O R 5650 2100 50 
 $EndSheet
 Wire Wire Line
 	4750 2100 5000 2100
@@ -139,8 +139,8 @@ F0 "motor_driver_5" 50
 F1 "motor_driver.sch" 50
 F2 "PWM" I L 2500 3100 50 
 F3 "EN" I L 2500 3200 50 
-F5 "OUT-" O R 3150 3200 50 
-F6 "OUT+" O R 3150 3100 50 
+F4 "OUT-" O R 3150 3200 50 
+F5 "OUT+" O R 3150 3100 50 
 $EndSheet
 Wire Wire Line
 	2250 3200 2500 3200
@@ -155,8 +155,8 @@ F0 "motor_driver_6" 50
 F1 "motor_driver.sch" 50
 F2 "PWM" I L 5000 3100 50 
 F3 "EN" I L 5000 3200 50 
-F5 "OUT-" O R 5650 3200 50 
-F6 "OUT+" O R 5650 3100 50 
+F4 "OUT-" O R 5650 3200 50 
+F5 "OUT+" O R 5650 3100 50 
 $EndSheet
 Wire Wire Line
 	4750 3200 5000 3200
@@ -175,8 +175,8 @@ F0 "motor_driver_7" 50
 F1 "motor_driver.sch" 50
 F2 "PWM" I L 2500 4100 50 
 F3 "EN" I L 2500 4200 50 
-F5 "OUT-" O R 3150 4200 50 
-F6 "OUT+" O R 3150 4100 50 
+F4 "OUT-" O R 3150 4200 50 
+F5 "OUT+" O R 3150 4100 50 
 $EndSheet
 Wire Wire Line
 	2250 4100 2500 4100
@@ -201,8 +201,8 @@ F0 "motor_driver_8" 50
 F1 "motor_driver.sch" 50
 F2 "PWM" I L 5000 4100 50 
 F3 "EN" I L 5000 4200 50 
-F5 "OUT-" O R 5650 4200 50 
-F6 "OUT+" O R 5650 4100 50 
+F4 "OUT-" O R 5650 4200 50 
+F5 "OUT+" O R 5650 4100 50 
 $EndSheet
 Wire Wire Line
 	4750 4100 5000 4100
@@ -225,8 +225,8 @@ F0 "motor_driver_9" 50
 F1 "motor_driver.sch" 50
 F2 "PWM" I L 2500 5100 50 
 F3 "EN" I L 2500 5200 50 
-F5 "OUT-" O R 3150 5200 50 
-F6 "OUT+" O R 3150 5100 50 
+F4 "OUT-" O R 3150 5200 50 
+F5 "OUT+" O R 3150 5100 50 
 $EndSheet
 Wire Wire Line
 	2250 5200 2500 5200
@@ -243,8 +243,8 @@ F0 "motor_driver_10" 50
 F1 "motor_driver.sch" 50
 F2 "PWM" I L 5000 5100 50 
 F3 "EN" I L 5000 5200 50 
-F5 "OUT-" O R 5650 5200 50 
-F6 "OUT+" O R 5650 5100 50 
+F4 "OUT-" O R 5650 5200 50 
+F5 "OUT+" O R 5650 5100 50 
 $EndSheet
 Wire Wire Line
 	4750 5200 5000 5200
@@ -261,8 +261,8 @@ F0 "motor_driver_11" 50
 F1 "motor_driver.sch" 50
 F2 "PWM" I L 2500 6100 50 
 F3 "EN" I L 2500 6200 50 
-F5 "OUT-" O R 3150 6200 50 
-F6 "OUT+" O R 3150 6100 50 
+F4 "OUT-" O R 3150 6200 50 
+F5 "OUT+" O R 3150 6100 50 
 $EndSheet
 Wire Wire Line
 	2250 6100 2500 6100
@@ -287,8 +287,8 @@ F0 "motor_driver_12" 50
 F1 "motor_driver.sch" 50
 F2 "PWM" I L 5000 6100 50 
 F3 "EN" I L 5000 6200 50 
-F5 "OUT-" O R 5650 6200 50 
-F6 "OUT+" O R 5650 6100 50 
+F4 "OUT-" O R 5650 6200 50 
+F5 "OUT+" O R 5650 6100 50 
 $EndSheet
 Wire Wire Line
 	4750 6100 5000 6100
@@ -313,8 +313,8 @@ F0 "motor_driver_0" 50
 F1 "motor_driver.sch" 50
 F2 "PWM" I L 2500 7100 50 
 F3 "EN" I L 2500 7200 50 
-F5 "OUT-" O R 3150 7200 50 
-F6 "OUT+" O R 3150 7100 50 
+F4 "OUT-" O R 3150 7200 50 
+F5 "OUT+" O R 3150 7100 50 
 $EndSheet
 Wire Wire Line
 	2250 7100 2500 7100
