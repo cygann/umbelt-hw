@@ -42,10 +42,10 @@ Wire Wire Line
 Wire Wire Line
 	3150 1200 3500 1200
 $Comp
-L umbelt-board:Conn_Flex_Motor J?
+L umbelt-board:Conn_Flex_Motor J6
 U 1 1 6126564B
 P 9000 1500
-F 0 "J?" H 9000 1650 50  0000 L CNN
+F 0 "J6" H 9000 1650 50  0000 L CNN
 F 1 "Conn_Flex_Motor" H 9000 1550 50  0000 L CNN
 F 2 "umbelt-board:Conn_Flex_Motor" H 9000 1500 50  0001 C CNN
 F 3 "" H 9000 1500 50  0001 C CNN
@@ -365,10 +365,10 @@ Wire Wire Line
 Wire Wire Line
 	5650 5200 6050 5200
 $Comp
-L umbelt-board:Conn_Indiv_Motor J?
+L umbelt-board:Conn_Indiv_Motor J7
 U 1 1 612911EA
 P 9200 5150
-F 0 "J?" H 9428 5196 50  0000 L CNN
+F 0 "J7" H 9428 5196 50  0000 L CNN
 F 1 "Conn_Indiv_Motor" H 9428 5105 50  0000 L CNN
 F 2 "umbelt-board:Conn_Indiv_Motor" H 9200 5150 50  0001 C CNN
 F 3 "" H 9200 5150 50  0001 C CNN
@@ -479,4 +479,90 @@ Wire Wire Line
 	8500 1700 8900 1700
 Wire Wire Line
 	8500 1600 8900 1600
+$Comp
+L Device:C_Small C?
+U 1 1 618123C1
+P 7500 5150
+AR Path="/618123C1" Ref="C?"  Part="1" 
+AR Path="/61236087/618123C1" Ref="C14"  Part="1" 
+F 0 "C14" H 7550 5250 50  0000 L CNN
+F 1 "0.1uF" H 7550 5050 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 7500 5150 50  0001 C CNN
+F 3 "~" H 7500 5150 50  0001 C CNN
+	1    7500 5150
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3.3V #PWR?
+U 1 1 6181702D
+P 7500 4950
+AR Path="/6181702D" Ref="#PWR?"  Part="1" 
+AR Path="/61236087/6181702D" Ref="#PWR058"  Part="1" 
+F 0 "#PWR058" H 7500 4800 50  0001 C CNN
+F 1 "+3.3V" H 7515 5123 50  0000 C CNN
+F 2 "" H 7500 4950 50  0001 C CNN
+F 3 "" H 7500 4950 50  0001 C CNN
+	1    7500 4950
+	-1   0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 61817033
+P 7500 5350
+AR Path="/61817033" Ref="#PWR?"  Part="1" 
+AR Path="/61236087/61817033" Ref="#PWR060"  Part="1" 
+F 0 "#PWR060" H 7500 5100 50  0001 C CNN
+F 1 "GND" H 7505 5177 50  0000 C CNN
+F 2 "" H 7500 5350 50  0001 C CNN
+F 3 "" H 7500 5350 50  0001 C CNN
+	1    7500 5350
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	7500 5350 7500 5250
+Wire Wire Line
+	7500 5050 7500 4950
+$Comp
+L Device:C_Small C?
+U 1 1 6183611F
+P 7000 5150
+AR Path="/6183611F" Ref="C?"  Part="1" 
+AR Path="/61236087/6183611F" Ref="C13"  Part="1" 
+F 0 "C13" H 7050 5250 50  0000 L CNN
+F 1 "2.2uF" H 7050 5050 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 7000 5150 50  0001 C CNN
+F 3 "~" H 7000 5150 50  0001 C CNN
+	1    7000 5150
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3.3V #PWR?
+U 1 1 61836125
+P 7000 4950
+AR Path="/61836125" Ref="#PWR?"  Part="1" 
+AR Path="/61236087/61836125" Ref="#PWR057"  Part="1" 
+F 0 "#PWR057" H 7000 4800 50  0001 C CNN
+F 1 "+3.3V" H 7015 5123 50  0000 C CNN
+F 2 "" H 7000 4950 50  0001 C CNN
+F 3 "" H 7000 4950 50  0001 C CNN
+	1    7000 4950
+	-1   0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 6183612B
+P 7000 5350
+AR Path="/6183612B" Ref="#PWR?"  Part="1" 
+AR Path="/61236087/6183612B" Ref="#PWR059"  Part="1" 
+F 0 "#PWR059" H 7000 5100 50  0001 C CNN
+F 1 "GND" H 7005 5177 50  0000 C CNN
+F 2 "" H 7000 5350 50  0001 C CNN
+F 3 "" H 7000 5350 50  0001 C CNN
+	1    7000 5350
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	7000 5350 7000 5250
+Wire Wire Line
+	7000 5050 7000 4950
 $EndSCHEMATC
