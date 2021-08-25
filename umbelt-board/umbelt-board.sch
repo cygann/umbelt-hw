@@ -728,19 +728,17 @@ Wire Wire Line
 	5950 4350 5950 4300
 Wire Wire Line
 	6350 4850 6350 4800
-Text Label 3950 850  3    50   ~ 0
+Text Label 4400 3800 1    50   ~ 0
 LED
-Wire Wire Line
-	3950 1100 3950 850 
-Text Label 3450 3800 1    50   ~ 0
+Text Label 3650 3800 1    50   ~ 0
 QSPI_DATA3
 Text Label 3550 3800 1    50   ~ 0
 QSPI_CS
-Text Label 3650 3800 1    50   ~ 0
-QSPI_DATA2
 Text Label 3750 3800 1    50   ~ 0
-QSPI_DATA1
+QSPI_DATA2
 Text Label 3850 3800 1    50   ~ 0
+QSPI_DATA1
+Text Label 3450 3800 1    50   ~ 0
 QSPI_DATA0
 Text Label 3300 3800 1    50   ~ 0
 QSPI_SCK
@@ -751,13 +749,13 @@ Wire Wire Line
 Wire Wire Line
 	3300 3800 3300 3300
 Wire Wire Line
-	3450 3800 3450 3300
+	3650 3800 3650 3300
 Wire Wire Line
 	3550 3800 3550 3300
 Wire Wire Line
-	3650 3800 3650 3300
-Wire Wire Line
 	3750 3800 3750 3300
+Wire Wire Line
+	3850 3800 3850 3300
 Text Label 2500 3800 1    50   ~ 0
 USBD-
 Text Label 2600 3800 1    50   ~ 0
@@ -842,15 +840,14 @@ Wire Wire Line
 	4300 3300 4300 3800
 Wire Wire Line
 	4500 3300 4500 3800
-NoConn ~ 4400 3300
 NoConn ~ 4600 3300
 $Comp
-L umbelt-board:Conn_01x06 J2
+L Connector_Generic:Conn_01x06 J2
 U 1 1 617CB4BE
 P 9700 3700
 F 0 "J2" H 9650 4000 50  0000 L CNN
 F 1 "Conn_01x06" H 9650 3300 50  0000 L CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Horizontal" H 9700 3700 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical" H 9700 3700 50  0001 C CNN
 F 3 "~" H 9700 3700 50  0001 C CNN
 	1    9700 3700
 	1    0    0    -1  
@@ -1543,7 +1540,7 @@ Wire Wire Line
 Text Label 4200 3800 1    50   ~ 0
 ACC_IRQ
 Wire Wire Line
-	3850 3800 3850 3300
+	3450 3800 3450 3300
 $Comp
 L power:GND #PWR049
 U 1 1 61228C87
@@ -1939,4 +1936,7 @@ F 3 "https://gct.co/connector/usb4105" H 9350 1700 50  0001 C CNN
 $EndComp
 Text Notes 9350 700  2    50   ~ 0
 USB CONNECTOR
+Wire Wire Line
+	4400 3300 4400 3800
+NoConn ~ 3950 1100
 $EndSCHEMATC
