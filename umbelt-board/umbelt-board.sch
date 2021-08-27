@@ -847,7 +847,7 @@ U 1 1 617CB4BE
 P 9700 3700
 F 0 "J2" H 9650 4000 50  0000 L CNN
 F 1 "Conn_01x06" H 9650 3300 50  0000 L CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical" H 9700 3700 50  0001 C CNN
+F 2 "umbelt-board:PinHeader_1x06_P2.54mm_Right_Angle_SMD" H 9700 3700 50  0001 C CNN
 F 3 "~" H 9700 3700 50  0001 C CNN
 	1    9700 3700
 	1    0    0    -1  
@@ -1939,4 +1939,6 @@ USB CONNECTOR
 Wire Wire Line
 	4400 3300 4400 3800
 NoConn ~ 3950 1100
+Text Label 1550 7000 0    50   ~ 0
+REGIN
 $EndSCHEMATC
