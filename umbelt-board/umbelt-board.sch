@@ -639,10 +639,10 @@ Wire Wire Line
 Wire Wire Line
 	3400 7000 3500 7000
 NoConn ~ 1900 2900
-Text Label 3050 850  3    50   ~ 0
+Text Label 3250 850  3    50   ~ 0
 VDIV
 Wire Wire Line
-	3050 1100 3050 850 
+	3250 1100 3250 850 
 $Comp
 L power:+3.3V #PWR035
 U 1 1 6123D26A
@@ -1571,7 +1571,7 @@ Text Label 1500 2100 0    50   ~ 0
 PDM_CLK
 Text Label 1500 2000 0    50   ~ 0
 PDM_DAT
-Text Label 3250 850  3    50   ~ 0
+Text Label 3050 850  3    50   ~ 0
 A1
 Text Label 3150 850  3    50   ~ 0
 A0
@@ -1582,7 +1582,7 @@ D1
 Wire Wire Line
 	3150 1100 3150 850 
 Wire Wire Line
-	3250 1100 3250 850 
+	3050 1100 3050 850 
 Wire Wire Line
 	3950 3500 3950 3300
 Wire Wire Line
@@ -1614,57 +1614,59 @@ MOTOR_PWM_1
 Text Label 7500 4950 0    50   ~ 0
 MOTOR_PWM_0
 Wire Wire Line
-	2850 1100 2850 550 
+	3350 1100 3350 550 
 Wire Wire Line
-	2750 1100 2750 550 
-Text Label 2850 550  3    50   ~ 0
+	3550 1100 3550 550 
+Text Label 3350 550  3    50   ~ 0
 MOTOR_EN_2
-Text Label 2750 550  3    50   ~ 0
+Text Label 3550 550  3    50   ~ 0
 MOTOR_EN_1
 Wire Wire Line
 	2950 1100 2950 550 
 Text Label 2950 550  3    50   ~ 0
 MOTOR_EN_3
 Wire Wire Line
-	3650 1100 3650 550 
-Wire Wire Line
-	3550 1100 3550 550 
+	4900 1100 4900 550 
 Wire Wire Line
 	3450 1100 3450 550 
 Wire Wire Line
-	3350 1100 3350 550 
-Text Label 3650 550  3    50   ~ 0
+	2850 1100 2850 550 
+Wire Wire Line
+	2750 1100 2750 550 
+Text Label 4900 550  3    50   ~ 0
 MOTOR_EN_7
-Text Label 3550 550  3    50   ~ 0
-MOTOR_EN_6
 Text Label 3450 550  3    50   ~ 0
+MOTOR_EN_6
+Text Label 2850 550  3    50   ~ 0
 MOTOR_EN_5
-Text Label 3350 550  3    50   ~ 0
+Text Label 2750 550  3    50   ~ 0
 MOTOR_EN_4
-Wire Wire Line
-	3750 1100 3750 550 
-Text Label 3750 550  3    50   ~ 0
-MOTOR_EN_8
-Wire Wire Line
-	4700 1100 4700 550 
-Wire Wire Line
-	4600 1100 4600 550 
-Wire Wire Line
-	4500 1100 4500 550 
-Wire Wire Line
-	4400 1100 4400 550 
-Text Label 4700 550  3    50   ~ 0
-MOTOR_EN_12
-Text Label 4600 550  3    50   ~ 0
-MOTOR_EN_11
-Text Label 4500 550  3    50   ~ 0
-MOTOR_EN_10
-Text Label 4400 550  3    50   ~ 0
-MOTOR_EN_9
 Wire Wire Line
 	4800 1100 4800 550 
 Text Label 4800 550  3    50   ~ 0
+MOTOR_EN_8
+Wire Wire Line
+	4400 1100 4400 550 
+Wire Wire Line
+	4500 1100 4500 550 
+Wire Wire Line
+	4600 1100 4600 550 
+Wire Wire Line
+	4700 1100 4700 550 
+Text Label 4400 550  3    50   ~ 0
+MOTOR_EN_12
+Text Label 4500 550  3    50   ~ 0
+MOTOR_EN_11
+Text Label 4600 550  3    50   ~ 0
+MOTOR_EN_10
+Text Label 4700 550  3    50   ~ 0
+MOTOR_EN_9
+Wire Wire Line
+	3750 1100 3750 550 
+Text Label 3750 550  3    50   ~ 0
 MOTOR_EN_0
+Wire Wire Line
+	1250 1900 1900 1900
 Wire Wire Line
 	1250 1800 1900 1800
 Wire Wire Line
@@ -1673,49 +1675,47 @@ Wire Wire Line
 	1250 1600 1900 1600
 Wire Wire Line
 	1250 1500 1900 1500
-Wire Wire Line
-	1250 1400 1900 1400
-Text Label 1250 1800 0    50   ~ 0
+Text Label 1250 1900 0    50   ~ 0
 MOTOR_PWM_5
-Text Label 1250 1700 0    50   ~ 0
+Text Label 1250 1800 0    50   ~ 0
 MOTOR_PWM_4
-Text Label 1250 1600 0    50   ~ 0
+Text Label 1250 1700 0    50   ~ 0
 MOTOR_PWM_3
-Text Label 1250 1500 0    50   ~ 0
+Text Label 1250 1600 0    50   ~ 0
 MOTOR_PWM_2
-Text Label 1250 1400 0    50   ~ 0
+Text Label 1250 1500 0    50   ~ 0
 MOTOR_PWM_1
 Wire Wire Line
-	1250 1900 1900 1900
-Text Label 1250 1900 0    50   ~ 0
+	1250 2200 1900 2200
+Text Label 1250 2200 0    50   ~ 0
 MOTOR_PWM_6
 Wire Wire Line
-	1250 2300 1900 2300
+	1250 2400 1900 2400
 Wire Wire Line
-	1250 2200 1900 2200
-Text Label 1250 2300 0    50   ~ 0
+	1250 2300 1900 2300
+Text Label 1250 2400 0    50   ~ 0
 MOTOR_PWM_8
-Text Label 1250 2200 0    50   ~ 0
+Text Label 1250 2300 0    50   ~ 0
 MOTOR_PWM_7
 Wire Wire Line
-	1250 2400 1900 2400
-Text Label 1250 2400 0    50   ~ 0
+	2700 3950 2700 3300
+Text Label 2700 3950 1    50   ~ 0
 MOTOR_PWM_9
+Wire Wire Line
+	3000 3950 3000 3300
 Wire Wire Line
 	2900 3950 2900 3300
 Wire Wire Line
 	2800 3950 2800 3300
-Wire Wire Line
-	2700 3950 2700 3300
-Text Label 2900 3950 1    50   ~ 0
+Text Label 3000 3950 1    50   ~ 0
 MOTOR_PWM_12
-Text Label 2800 3950 1    50   ~ 0
+Text Label 2900 3950 1    50   ~ 0
 MOTOR_PWM_11
-Text Label 2700 3950 1    50   ~ 0
+Text Label 2800 3950 1    50   ~ 0
 MOTOR_PWM_10
 Wire Wire Line
-	3000 3950 3000 3300
-Text Label 3000 3950 1    50   ~ 0
+	1250 1400 1900 1400
+Text Label 1250 1400 0    50   ~ 0
 MOTOR_PWM_0
 $Comp
 L power:GND #PWR08
@@ -1783,7 +1783,7 @@ Wire Wire Line
 Wire Wire Line
 	9650 6150 10300 6150
 NoConn ~ 3200 3300
-NoConn ~ 4900 1100
+NoConn ~ 3650 1100
 Wire Wire Line
 	8300 1400 8100 1400
 Wire Wire Line
@@ -1941,4 +1941,34 @@ Wire Wire Line
 NoConn ~ 3950 1100
 Text Label 1550 7000 0    50   ~ 0
 REGIN
+Text Label 7000 3900 0    50   ~ 0
+PDM_DAT
+Text Label 7000 4000 0    50   ~ 0
+PDM_CLK
+$Comp
+L Connector:TestPoint TP1
+U 1 1 613C865F
+P 7350 3900
+F 0 "TP1" V 7250 4000 50  0000 L CNN
+F 1 "PDM_DAT" V 7250 3950 50  0001 L CNN
+F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 7550 3900 50  0001 C CNN
+F 3 "~" H 7550 3900 50  0001 C CNN
+	1    7350 3900
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint TP2
+U 1 1 613C8BB6
+P 7350 4000
+F 0 "TP2" V 7450 4100 50  0000 L CNN
+F 1 "PDM_CLK" V 7550 4050 50  0001 L CNN
+F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 7550 4000 50  0001 C CNN
+F 3 "~" H 7550 4000 50  0001 C CNN
+	1    7350 4000
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	7000 3900 7350 3900
+Wire Wire Line
+	7000 4000 7350 4000
 $EndSCHEMATC
