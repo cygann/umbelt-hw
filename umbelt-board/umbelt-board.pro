@@ -1,4 +1,4 @@
-update=Tuesday, August 24, 2021 at 11:52:37 AM
+update=Thursday, September 09, 2021 at 02:16:47 PM
 version=1
 last_client=kicad
 [general]
@@ -40,9 +40,10 @@ MinMicroViaDrill=0.3048
 MinHoleToHole=0.508
 TrackWidth1=0.1524
 TrackWidth2=0.1524
-TrackWidth3=0.254
-TrackWidth4=0.508
-TrackWidth5=0.762
+TrackWidth3=0.2286
+TrackWidth4=0.254
+TrackWidth5=0.508
+TrackWidth6=0.762
 ViaDiameter1=0.6096
 ViaDrill1=0.3048
 ViaDiameter2=0.6096
@@ -80,15 +81,15 @@ SolderPasteClearance=0
 SolderPasteRatio=-0
 [pcbnew/Layer.F.Cu]
 Name=F.Cu
-Type=0
+Type=2
 Enabled=1
 [pcbnew/Layer.In1.Cu]
 Name=In1.Cu
-Type=0
+Type=2
 Enabled=1
 [pcbnew/Layer.In2.Cu]
 Name=In2.Cu
-Type=0
+Type=2
 Enabled=1
 [pcbnew/Layer.In3.Cu]
 Name=In3.Cu
@@ -204,7 +205,7 @@ Type=0
 Enabled=0
 [pcbnew/Layer.B.Cu]
 Name=B.Cu
-Type=0
+Type=2
 Enabled=1
 [pcbnew/Layer.B.Adhes]
 Enabled=1
@@ -288,4 +289,15 @@ uViaDiameter=0.6096
 uViaDrill=0.3048
 dPairWidth=0.2
 dPairGap=0.25
+dPairViaGap=0.25
+[pcbnew/Netclasses/4]
+Name=USB
+Clearance=0.1524
+TrackWidth=0.1524
+ViaDiameter=0.6096
+ViaDrill=0.3048
+uViaDiameter=0.6096
+uViaDrill=0.3048
+dPairWidth=0.2286
+dPairGap=0.1524
 dPairViaGap=0.25
