@@ -7,9 +7,9 @@ Sheet 1 15
 Title "Umbelt Board"
 Date ""
 Rev "1.0"
-Comp "Matthew Pauly, Natalie Cygan"
-Comment1 ""
-Comment2 ""
+Comp ""
+Comment1 "Licensed under the CERN-OHL-W v2 or later"
+Comment2 "Copyright Matthew Pauly and Natalie Cygan 2020"
 Comment3 ""
 Comment4 ""
 $EndDescr
