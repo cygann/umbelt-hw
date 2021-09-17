@@ -882,13 +882,13 @@ Wire Wire Line
 	9450 4050 9450 3600
 Wire Wire Line
 	9450 3600 9500 3600
-Text Label 9300 3700 0    50   ~ 0
-A0
-Text Label 9300 3800 0    50   ~ 0
-A1
 Text Label 9300 3900 0    50   ~ 0
-D0
+A0
 Text Label 9300 4000 0    50   ~ 0
+A1
+Text Label 9300 3700 0    50   ~ 0
+D0
+Text Label 9300 3800 0    50   ~ 0
 D1
 Wire Wire Line
 	9300 3700 9500 3700
