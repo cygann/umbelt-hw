@@ -8,9 +8,9 @@ Title "Umbelt Board"
 Date ""
 Rev "1.0"
 Comp ""
-Comment1 "Licensed under the CERN-OHL-W v2 or later"
-Comment2 "Copyright Matthew Pauly and Natalie Cygan 2020"
-Comment3 ""
+Comment1 "Source location: https://github.com/cygann/umbelt-hw"
+Comment2 "Licensed under the CERN-OHL-W v2 or later"
+Comment3 "Copyright Natalie Cygan and Matthew Pauly 2021"
 Comment4 ""
 $EndDescr
 $Comp

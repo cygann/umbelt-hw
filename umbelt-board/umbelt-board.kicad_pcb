@@ -13,8 +13,9 @@
   (title_block
     (title "Umbelt Board")
     (rev 1.0)
-    (comment 1 "Licensed under the CERN-OHL-W v2 or later")
-    (comment 2 "Copyright Matthew Pauly and Natalie Cygan 2020")
+    (comment 1 "Source location: https://github.com/cygann/umbelt-hw")
+    (comment 2 "Licensed under the CERN-OHL-W v2 or later")
+    (comment 3 "Copyright Natalie Cygan and Matthew Pauly 2021")
   )
 
   (layers

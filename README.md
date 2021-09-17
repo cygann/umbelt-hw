@@ -4,7 +4,7 @@ Hardware files for Umbelt
 
 # License
 
-Copyright Matthew Pauly and Natalie Cygan 2021.
+Copyright Natalie Cygan and Matthew Pauly 2021.
 
 This source describes Open Hardware and is licensed under the CERN-OHL-W v2 or
 later
