@@ -6,8 +6,8 @@ Hardware files for Umbelt
 
 Copyright Matthew Pauly and Natalie Cygan 2021.
 
-This source describes Open Hardware and is licensed under the CERN-OHL-
-W v2 or later
+This source describes Open Hardware and is licensed under the CERN-OHL-W v2 or
+later
 
 You may redistribute and modify this documentation and make products
 using it under the terms of the CERN-OHL-W v2 (https://ohwr.org/cernohl).
