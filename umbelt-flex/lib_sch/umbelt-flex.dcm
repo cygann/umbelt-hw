@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Conn_Flex_Motor
+D Rigid-to-flex PCB connector
+$ENDCMP
+#
+$CMP Conn_Indiv_Motor
+D Individual Motor Connector
+$ENDCMP
+#
+#End Doc Library
