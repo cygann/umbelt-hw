@@ -2,200 +2,200 @@
 <export version="D">
   <design>
     <source>/Users/matthewpauly/Documents/KiCad/umbelt-hw/umbelt-board/umbelt-board.sch</source>
-    <date>Tuesday, August 24, 2021 at 11:57:17 AM</date>
+    <date>Sunday, September 26, 2021 at 11:12:09 AM</date>
     <tool>Eeschema (5.1.10-1-10_14)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>Umbelt Board</title>
-        <company>Matthew Pauly, Natalie Cygan</company>
+        <company/>
         <rev>1.0</rev>
         <date/>
         <source>umbelt-board.sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value=""/>
-        <comment number="3" value=""/>
+        <comment number="1" value="Source location: https://github.com/cygann/umbelt-hw"/>
+        <comment number="2" value="Licensed under the CERN-OHL-W v2 or later"/>
+        <comment number="3" value="Copyright Natalie Cygan and Matthew Pauly 2021"/>
         <comment number="4" value=""/>
       </title_block>
     </sheet>
     <sheet number="2" name="/motor_drivers/" tstamps="/61236087/">
       <title_block>
         <title>Umbelt Board</title>
-        <company>Matthew Pauly, Natalie Cygan</company>
+        <company/>
         <rev>1.0</rev>
         <date/>
         <source>motor_drivers.sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value=""/>
-        <comment number="3" value=""/>
+        <comment number="1" value="Source location: https://github.com/cygann/umbelt-hw"/>
+        <comment number="2" value="Licensed under the CERN-OHL-W v2 or later"/>
+        <comment number="3" value="Copyright Natalie Cygan and Matthew Pauly 2021"/>
         <comment number="4" value=""/>
       </title_block>
     </sheet>
     <sheet number="3" name="/motor_drivers/motor_driver_1/" tstamps="/61236087/61246CE4/">
       <title_block>
         <title>Umbelt Board</title>
-        <company>Matthew Pauly, Natalie Cygan</company>
+        <company/>
         <rev>1.0</rev>
         <date/>
         <source>motor_driver.sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value=""/>
-        <comment number="3" value=""/>
+        <comment number="1" value="Source location: https://github.com/cygann/umbelt-hw"/>
+        <comment number="2" value="Licensed under the CERN-OHL-W v2 or later"/>
+        <comment number="3" value="Copyright Natalie Cygan and Matthew Pauly 2021"/>
         <comment number="4" value=""/>
       </title_block>
     </sheet>
     <sheet number="4" name="/motor_drivers/motor_driver_2/" tstamps="/61236087/61269CD2/">
       <title_block>
         <title>Umbelt Board</title>
-        <company>Matthew Pauly, Natalie Cygan</company>
+        <company/>
         <rev>1.0</rev>
         <date/>
         <source>motor_driver.sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value=""/>
-        <comment number="3" value=""/>
+        <comment number="1" value="Source location: https://github.com/cygann/umbelt-hw"/>
+        <comment number="2" value="Licensed under the CERN-OHL-W v2 or later"/>
+        <comment number="3" value="Copyright Natalie Cygan and Matthew Pauly 2021"/>
         <comment number="4" value=""/>
       </title_block>
     </sheet>
     <sheet number="5" name="/motor_drivers/motor_driver_3/" tstamps="/61236087/6126B23B/">
       <title_block>
         <title>Umbelt Board</title>
-        <company>Matthew Pauly, Natalie Cygan</company>
+        <company/>
         <rev>1.0</rev>
         <date/>
         <source>motor_driver.sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value=""/>
-        <comment number="3" value=""/>
+        <comment number="1" value="Source location: https://github.com/cygann/umbelt-hw"/>
+        <comment number="2" value="Licensed under the CERN-OHL-W v2 or later"/>
+        <comment number="3" value="Copyright Natalie Cygan and Matthew Pauly 2021"/>
         <comment number="4" value=""/>
       </title_block>
     </sheet>
     <sheet number="6" name="/motor_drivers/motor_driver_4/" tstamps="/61236087/6126B249/">
       <title_block>
         <title>Umbelt Board</title>
-        <company>Matthew Pauly, Natalie Cygan</company>
+        <company/>
         <rev>1.0</rev>
         <date/>
         <source>motor_driver.sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value=""/>
-        <comment number="3" value=""/>
+        <comment number="1" value="Source location: https://github.com/cygann/umbelt-hw"/>
+        <comment number="2" value="Licensed under the CERN-OHL-W v2 or later"/>
+        <comment number="3" value="Copyright Natalie Cygan and Matthew Pauly 2021"/>
         <comment number="4" value=""/>
       </title_block>
     </sheet>
     <sheet number="7" name="/motor_drivers/motor_driver_5/" tstamps="/61236087/6126CDB0/">
       <title_block>
         <title>Umbelt Board</title>
-        <company>Matthew Pauly, Natalie Cygan</company>
+        <company/>
         <rev>1.0</rev>
         <date/>
         <source>motor_driver.sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value=""/>
-        <comment number="3" value=""/>
+        <comment number="1" value="Source location: https://github.com/cygann/umbelt-hw"/>
+        <comment number="2" value="Licensed under the CERN-OHL-W v2 or later"/>
+        <comment number="3" value="Copyright Natalie Cygan and Matthew Pauly 2021"/>
         <comment number="4" value=""/>
       </title_block>
     </sheet>
     <sheet number="8" name="/motor_drivers/motor_driver_6/" tstamps="/61236087/6126CDBA/">
       <title_block>
         <title>Umbelt Board</title>
-        <company>Matthew Pauly, Natalie Cygan</company>
+        <company/>
         <rev>1.0</rev>
         <date/>
         <source>motor_driver.sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value=""/>
-        <comment number="3" value=""/>
+        <comment number="1" value="Source location: https://github.com/cygann/umbelt-hw"/>
+        <comment number="2" value="Licensed under the CERN-OHL-W v2 or later"/>
+        <comment number="3" value="Copyright Natalie Cygan and Matthew Pauly 2021"/>
         <comment number="4" value=""/>
       </title_block>
     </sheet>
     <sheet number="9" name="/motor_drivers/motor_driver_7/" tstamps="/61236087/6126CDC5/">
       <title_block>
         <title>Umbelt Board</title>
-        <company>Matthew Pauly, Natalie Cygan</company>
+        <company/>
         <rev>1.0</rev>
         <date/>
         <source>motor_driver.sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value=""/>
-        <comment number="3" value=""/>
+        <comment number="1" value="Source location: https://github.com/cygann/umbelt-hw"/>
+        <comment number="2" value="Licensed under the CERN-OHL-W v2 or later"/>
+        <comment number="3" value="Copyright Natalie Cygan and Matthew Pauly 2021"/>
         <comment number="4" value=""/>
       </title_block>
     </sheet>
     <sheet number="10" name="/motor_drivers/motor_driver_8/" tstamps="/61236087/6126CDD3/">
       <title_block>
         <title>Umbelt Board</title>
-        <company>Matthew Pauly, Natalie Cygan</company>
+        <company/>
         <rev>1.0</rev>
         <date/>
         <source>motor_driver.sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value=""/>
-        <comment number="3" value=""/>
+        <comment number="1" value="Source location: https://github.com/cygann/umbelt-hw"/>
+        <comment number="2" value="Licensed under the CERN-OHL-W v2 or later"/>
+        <comment number="3" value="Copyright Natalie Cygan and Matthew Pauly 2021"/>
         <comment number="4" value=""/>
       </title_block>
     </sheet>
     <sheet number="11" name="/motor_drivers/motor_driver_9/" tstamps="/61236087/6126E6BC/">
       <title_block>
         <title>Umbelt Board</title>
-        <company>Matthew Pauly, Natalie Cygan</company>
+        <company/>
         <rev>1.0</rev>
         <date/>
         <source>motor_driver.sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value=""/>
-        <comment number="3" value=""/>
+        <comment number="1" value="Source location: https://github.com/cygann/umbelt-hw"/>
+        <comment number="2" value="Licensed under the CERN-OHL-W v2 or later"/>
+        <comment number="3" value="Copyright Natalie Cygan and Matthew Pauly 2021"/>
         <comment number="4" value=""/>
       </title_block>
     </sheet>
     <sheet number="12" name="/motor_drivers/motor_driver_10/" tstamps="/61236087/6126E6C6/">
       <title_block>
         <title>Umbelt Board</title>
-        <company>Matthew Pauly, Natalie Cygan</company>
+        <company/>
         <rev>1.0</rev>
         <date/>
         <source>motor_driver.sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value=""/>
-        <comment number="3" value=""/>
+        <comment number="1" value="Source location: https://github.com/cygann/umbelt-hw"/>
+        <comment number="2" value="Licensed under the CERN-OHL-W v2 or later"/>
+        <comment number="3" value="Copyright Natalie Cygan and Matthew Pauly 2021"/>
         <comment number="4" value=""/>
       </title_block>
     </sheet>
     <sheet number="13" name="/motor_drivers/motor_driver_11/" tstamps="/61236087/6126E6D1/">
       <title_block>
         <title>Umbelt Board</title>
-        <company>Matthew Pauly, Natalie Cygan</company>
+        <company/>
         <rev>1.0</rev>
         <date/>
         <source>motor_driver.sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value=""/>
-        <comment number="3" value=""/>
+        <comment number="1" value="Source location: https://github.com/cygann/umbelt-hw"/>
+        <comment number="2" value="Licensed under the CERN-OHL-W v2 or later"/>
+        <comment number="3" value="Copyright Natalie Cygan and Matthew Pauly 2021"/>
         <comment number="4" value=""/>
       </title_block>
     </sheet>
     <sheet number="14" name="/motor_drivers/motor_driver_12/" tstamps="/61236087/6126E6DF/">
       <title_block>
         <title>Umbelt Board</title>
-        <company>Matthew Pauly, Natalie Cygan</company>
+        <company/>
         <rev>1.0</rev>
         <date/>
         <source>motor_driver.sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value=""/>
-        <comment number="3" value=""/>
+        <comment number="1" value="Source location: https://github.com/cygann/umbelt-hw"/>
+        <comment number="2" value="Licensed under the CERN-OHL-W v2 or later"/>
+        <comment number="3" value="Copyright Natalie Cygan and Matthew Pauly 2021"/>
         <comment number="4" value=""/>
       </title_block>
     </sheet>
     <sheet number="15" name="/motor_drivers/motor_driver_0/" tstamps="/61236087/6126FBE6/">
       <title_block>
         <title>Umbelt Board</title>
-        <company>Matthew Pauly, Natalie Cygan</company>
+        <company/>
         <rev>1.0</rev>
         <date/>
         <source>motor_driver.sch</source>
-        <comment number="1" value=""/>
-        <comment number="2" value=""/>
-        <comment number="3" value=""/>
+        <comment number="1" value="Source location: https://github.com/cygann/umbelt-hw"/>
+        <comment number="2" value="Licensed under the CERN-OHL-W v2 or later"/>
+        <comment number="3" value="Copyright Natalie Cygan and Matthew Pauly 2021"/>
         <comment number="4" value=""/>
       </title_block>
     </sheet>
@@ -377,7 +377,7 @@
     </comp>
     <comp ref="J2">
       <value>Conn_01x06</value>
-      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical</footprint>
+      <footprint>umbelt-board:PinHeader_1x06_P2.54mm_Right_Angle_SMD</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Connector_Generic" part="Conn_01x06" description="Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <sheetpath names="/" tstamps="/"/>
@@ -559,6 +559,22 @@
       <libsource lib="Connector" part="USB_C_Receptacle_USB2.0" description="USB 2.0-only Type-C Receptacle connector"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>614FEC6A</tstamp>
+    </comp>
+    <comp ref="TP1">
+      <value>PDM_DAT</value>
+      <footprint>TestPoint:TestPoint_Pad_1.0x1.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>613C865F</tstamp>
+    </comp>
+    <comp ref="TP2">
+      <value>PDM_CLK</value>
+      <footprint>TestPoint:TestPoint_Pad_1.0x1.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>613C8BB6</tstamp>
     </comp>
     <comp ref="J6">
       <value>Conn_Flex_Motor</value>
@@ -1008,6 +1024,21 @@
     </comp>
   </components>
   <libparts>
+    <libpart lib="Connector" part="TestPoint">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
     <libpart lib="Connector" part="USB_C_Receptacle_USB2.0">
       <description>USB 2.0-only Type-C Receptacle connector</description>
       <docs>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</docs>
@@ -1510,10 +1541,15 @@
       <node ref="U12" pin="A3"/>
       <node ref="U13" pin="A3"/>
       <node ref="U14" pin="A3"/>
+      <node ref="U15" pin="A3"/>
+      <node ref="C11" pin="1"/>
+      <node ref="U16" pin="A3"/>
+      <node ref="U17" pin="A3"/>
+      <node ref="U18" pin="A3"/>
       <node ref="U2" pin="5"/>
       <node ref="U2" pin="16"/>
       <node ref="U2" pin="1"/>
-      <node ref="C11" pin="1"/>
+      <node ref="U20" pin="A3"/>
       <node ref="C2" pin="2"/>
       <node ref="C9" pin="1"/>
       <node ref="U5" pin="B1"/>
@@ -1522,215 +1558,207 @@
       <node ref="C8" pin="1"/>
       <node ref="C7" pin="1"/>
       <node ref="U3" pin="4"/>
+      <node ref="U19" pin="A3"/>
       <node ref="C5" pin="1"/>
-      <node ref="U15" pin="A3"/>
-      <node ref="U16" pin="A3"/>
-      <node ref="U17" pin="A3"/>
-      <node ref="U18" pin="A3"/>
       <node ref="U4" pin="8"/>
       <node ref="J4" pin="1"/>
       <node ref="J2" pin="1"/>
       <node ref="R9" pin="1"/>
       <node ref="R8" pin="1"/>
-      <node ref="U20" pin="A3"/>
       <node ref="U1" pin="28"/>
       <node ref="U1" pin="30"/>
-      <node ref="U19" pin="A3"/>
     </net>
     <net code="2" name="GND">
-      <node ref="U3" pin="8"/>
-      <node ref="J1" pin="B1"/>
-      <node ref="J1" pin="B12"/>
-      <node ref="J1" pin="A12"/>
-      <node ref="J1" pin="A1"/>
-      <node ref="U19" pin="B2"/>
-      <node ref="R1" pin="2"/>
-      <node ref="R2" pin="2"/>
-      <node ref="U1" pin="55"/>
-      <node ref="J1" pin="S1"/>
-      <node ref="U1" pin="33"/>
       <node ref="J3" pin="1"/>
+      <node ref="U2" pin="15"/>
       <node ref="C14" pin="2"/>
       <node ref="J3" pin="S1"/>
       <node ref="C13" pin="2"/>
-      <node ref="SW2" pin="2"/>
       <node ref="U7" pin="2"/>
+      <node ref="U1" pin="55"/>
       <node ref="U8" pin="B2"/>
-      <node ref="U20" pin="B2"/>
-      <node ref="U1" pin="2"/>
       <node ref="U6" pin="2"/>
       <node ref="U9" pin="B2"/>
       <node ref="U10" pin="B2"/>
       <node ref="C10" pin="2"/>
       <node ref="U11" pin="B2"/>
-      <node ref="U3" pin="3"/>
-      <node ref="U3" pin="5"/>
-      <node ref="U1" pin="15"/>
+      <node ref="SW2" pin="2"/>
       <node ref="U12" pin="B2"/>
+      <node ref="U1" pin="33"/>
       <node ref="U13" pin="B2"/>
-      <node ref="U1" pin="1"/>
-      <node ref="J2" pin="2"/>
       <node ref="R12" pin="2"/>
+      <node ref="U14" pin="B2"/>
+      <node ref="U15" pin="B2"/>
+      <node ref="J1" pin="S1"/>
+      <node ref="C11" pin="2"/>
+      <node ref="U16" pin="B2"/>
+      <node ref="J1" pin="B12"/>
+      <node ref="J1" pin="B1"/>
+      <node ref="J1" pin="A12"/>
+      <node ref="J1" pin="A1"/>
+      <node ref="R1" pin="2"/>
+      <node ref="R2" pin="2"/>
+      <node ref="J2" pin="2"/>
+      <node ref="U17" pin="B2"/>
+      <node ref="C12" pin="1"/>
+      <node ref="U1" pin="2"/>
+      <node ref="U1" pin="15"/>
+      <node ref="R13" pin="2"/>
+      <node ref="U18" pin="B2"/>
+      <node ref="J4" pin="3"/>
+      <node ref="J4" pin="5"/>
       <node ref="U2" pin="9"/>
       <node ref="U2" pin="8"/>
-      <node ref="U14" pin="B2"/>
+      <node ref="U4" pin="4"/>
       <node ref="U2" pin="4"/>
-      <node ref="U2" pin="15"/>
       <node ref="U2" pin="13"/>
       <node ref="U2" pin="12"/>
       <node ref="U2" pin="11"/>
       <node ref="U2" pin="10"/>
-      <node ref="J4" pin="3"/>
-      <node ref="J4" pin="5"/>
-      <node ref="C11" pin="2"/>
-      <node ref="C12" pin="1"/>
+      <node ref="U20" pin="B2"/>
+      <node ref="U1" pin="1"/>
       <node ref="C2" pin="1"/>
-      <node ref="R13" pin="2"/>
-      <node ref="U4" pin="4"/>
+      <node ref="J5" pin="1"/>
+      <node ref="J5" pin="S1"/>
       <node ref="C9" pin="2"/>
+      <node ref="R5" pin="2"/>
       <node ref="U5" pin="A1"/>
       <node ref="C4" pin="2"/>
-      <node ref="R5" pin="2"/>
-      <node ref="U18" pin="B2"/>
-      <node ref="SW1" pin="1"/>
-      <node ref="U17" pin="B2"/>
-      <node ref="U16" pin="B2"/>
+      <node ref="R7" pin="2"/>
+      <node ref="U19" pin="B2"/>
       <node ref="C3" pin="2"/>
       <node ref="C1" pin="2"/>
-      <node ref="R7" pin="2"/>
-      <node ref="U15" pin="B2"/>
-      <node ref="C5" pin="2"/>
+      <node ref="SW1" pin="1"/>
       <node ref="C8" pin="2"/>
-      <node ref="C6" pin="2"/>
       <node ref="C7" pin="2"/>
-      <node ref="J5" pin="S1"/>
-      <node ref="J5" pin="1"/>
+      <node ref="U3" pin="8"/>
+      <node ref="C5" pin="2"/>
       <node ref="U3" pin="7"/>
+      <node ref="C6" pin="2"/>
       <node ref="U3" pin="6"/>
+      <node ref="U3" pin="5"/>
+      <node ref="U3" pin="3"/>
     </net>
-    <net code="3" name="Net-(R12-Pad1)">
-      <node ref="R12" pin="1"/>
-      <node ref="U7" pin="5"/>
-    </net>
-    <net code="4" name="Net-(U6-Pad4)">
-      <node ref="U6" pin="4"/>
-    </net>
-    <net code="5" name="VBUS">
-      <node ref="J1" pin="A9"/>
-      <node ref="J1" pin="A4"/>
-      <node ref="J5" pin="2"/>
-      <node ref="R13" pin="1"/>
-      <node ref="J1" pin="B4"/>
+    <net code="3" name="VBUS">
+      <node ref="U7" pin="4"/>
       <node ref="C6" pin="1"/>
-      <node ref="R6" pin="1"/>
-      <node ref="D3" pin="2"/>
+      <node ref="Q1" pin="1"/>
+      <node ref="D2" pin="2"/>
+      <node ref="R13" pin="1"/>
+      <node ref="J1" pin="A4"/>
+      <node ref="J1" pin="A9"/>
+      <node ref="J1" pin="B4"/>
       <node ref="J1" pin="B9"/>
       <node ref="U1" pin="32"/>
-      <node ref="Q1" pin="2"/>
-      <node ref="Q1" pin="1"/>
-      <node ref="C10" pin="1"/>
-      <node ref="U7" pin="4"/>
-      <node ref="D2" pin="2"/>
-      <node ref="U7" pin="3"/>
+      <node ref="D3" pin="2"/>
     </net>
-    <net code="6" name="Net-(D3-Pad1)">
+    <net code="4" name="Net-(R12-Pad1)">
+      <node ref="U7" pin="5"/>
+      <node ref="R12" pin="1"/>
+    </net>
+    <net code="5" name="Net-(U6-Pad4)">
+      <node ref="U6" pin="4"/>
+    </net>
+    <net code="6" name="VBAT">
+      <node ref="J5" pin="2"/>
+      <node ref="R6" pin="1"/>
+      <node ref="U7" pin="3"/>
+      <node ref="Q1" pin="2"/>
+      <node ref="C10" pin="1"/>
+    </net>
+    <net code="7" name="Net-(D3-Pad1)">
       <node ref="R11" pin="1"/>
       <node ref="D3" pin="1"/>
     </net>
-    <net code="7" name="Net-(R11-Pad2)">
+    <net code="8" name="Net-(R11-Pad2)">
       <node ref="U7" pin="1"/>
       <node ref="R11" pin="2"/>
     </net>
-    <net code="8" name="Net-(C12-Pad2)">
-      <node ref="U6" pin="1"/>
-      <node ref="D2" pin="1"/>
-      <node ref="Q1" pin="3"/>
-      <node ref="R10" pin="1"/>
-      <node ref="C12" pin="2"/>
-    </net>
     <net code="9" name="/VDIV">
-      <node ref="U1" pin="11"/>
-      <node ref="R7" pin="1"/>
+      <node ref="U1" pin="9"/>
       <node ref="R6" pin="2"/>
+      <node ref="R7" pin="1"/>
     </net>
     <net code="10" name="/RESET">
       <node ref="U1" pin="40"/>
-      <node ref="SW1" pin="2"/>
       <node ref="J4" pin="10"/>
+      <node ref="SW1" pin="2"/>
     </net>
     <net code="11" name="/SCL">
-      <node ref="U5" pin="B2"/>
-      <node ref="U1" pin="27"/>
       <node ref="J3" pin="4"/>
       <node ref="U2" pin="2"/>
+      <node ref="U5" pin="B2"/>
       <node ref="R8" pin="2"/>
+      <node ref="U1" pin="27"/>
     </net>
     <net code="12" name="/SDA">
+      <node ref="U1" pin="29"/>
       <node ref="U5" pin="A2"/>
+      <node ref="R9" pin="2"/>
       <node ref="U2" pin="3"/>
       <node ref="J3" pin="3"/>
-      <node ref="U1" pin="29"/>
-      <node ref="R9" pin="2"/>
     </net>
-    <net code="13" name="Net-(U1-Pad31)">
+    <net code="13" name="Net-(U1-Pad3)">
+      <node ref="U1" pin="3"/>
+    </net>
+    <net code="14" name="Net-(U1-Pad31)">
       <node ref="U1" pin="31"/>
     </net>
-    <net code="14" name="Net-(U1-Pad41)">
+    <net code="15" name="Net-(U1-Pad41)">
       <node ref="U1" pin="41"/>
     </net>
-    <net code="15" name="Net-(U1-Pad52)">
-      <node ref="U1" pin="52"/>
+    <net code="16" name="Net-(U1-Pad5)">
+      <node ref="U1" pin="5"/>
     </net>
-    <net code="16" name="Net-(U1-Pad54)">
+    <net code="17" name="Net-(U1-Pad54)">
       <node ref="U1" pin="54"/>
-    </net>
-    <net code="17" name="Net-(U1-Pad56)">
-      <node ref="U1" pin="56"/>
     </net>
     <net code="18" name="Net-(R10-Pad2)">
       <node ref="R10" pin="2"/>
-      <node ref="SW2" pin="1"/>
       <node ref="U6" pin="3"/>
+      <node ref="SW2" pin="1"/>
     </net>
     <net code="19" name="/SWDIO">
       <node ref="U1" pin="51"/>
       <node ref="J4" pin="2"/>
     </net>
     <net code="20" name="/SWCLK">
-      <node ref="J4" pin="4"/>
       <node ref="U1" pin="53"/>
+      <node ref="J4" pin="4"/>
     </net>
     <net code="21" name="/PDM_DAT">
       <node ref="U1" pin="22"/>
+      <node ref="TP1" pin="1"/>
       <node ref="U3" pin="1"/>
     </net>
     <net code="22" name="/PDM_CLK">
       <node ref="U1" pin="23"/>
       <node ref="U3" pin="2"/>
+      <node ref="TP2" pin="1"/>
     </net>
     <net code="23" name="/LED">
       <node ref="D1" pin="2"/>
-      <node ref="U1" pin="3"/>
+      <node ref="U1" pin="52"/>
     </net>
     <net code="24" name="/QSPI_DATA3">
-      <node ref="U1" pin="43"/>
       <node ref="U4" pin="7"/>
+      <node ref="U1" pin="45"/>
     </net>
     <net code="25" name="/QSPI_CS">
-      <node ref="U1" pin="44"/>
       <node ref="U4" pin="1"/>
+      <node ref="U1" pin="44"/>
     </net>
     <net code="26" name="/QSPI_DATA2">
       <node ref="U4" pin="3"/>
-      <node ref="U1" pin="45"/>
-    </net>
-    <net code="27" name="/QSPI_DATA1">
-      <node ref="U4" pin="2"/>
       <node ref="U1" pin="46"/>
     </net>
-    <net code="28" name="/QSPI_DATA0">
-      <node ref="U4" pin="5"/>
+    <net code="27" name="/QSPI_DATA1">
       <node ref="U1" pin="47"/>
+      <node ref="U4" pin="2"/>
+    </net>
+    <net code="28" name="/QSPI_DATA0">
+      <node ref="U1" pin="43"/>
+      <node ref="U4" pin="5"/>
     </net>
     <net code="29" name="/QSPI_SCK">
       <node ref="U4" pin="6"/>
@@ -1741,24 +1769,24 @@
       <node ref="R3" pin="2"/>
     </net>
     <net code="31" name="/USBD+">
-      <node ref="U1" pin="35"/>
       <node ref="R4" pin="2"/>
+      <node ref="U1" pin="35"/>
     </net>
     <net code="32" name="/A0">
       <node ref="U1" pin="10"/>
-      <node ref="J2" pin="3"/>
-    </net>
-    <net code="33" name="/A1">
-      <node ref="J2" pin="4"/>
-      <node ref="U1" pin="9"/>
-    </net>
-    <net code="34" name="/D0">
-      <node ref="U1" pin="48"/>
       <node ref="J2" pin="5"/>
     </net>
-    <net code="35" name="/D1">
+    <net code="33" name="/A1">
+      <node ref="U1" pin="11"/>
       <node ref="J2" pin="6"/>
+    </net>
+    <net code="34" name="/D0">
+      <node ref="J2" pin="3"/>
+      <node ref="U1" pin="48"/>
+    </net>
+    <net code="35" name="/D1">
       <node ref="U1" pin="49"/>
+      <node ref="J2" pin="4"/>
     </net>
     <net code="36" name="Net-(J4-Pad6)">
       <node ref="J4" pin="6"/>
@@ -1777,119 +1805,119 @@
       <node ref="R5" pin="1"/>
     </net>
     <net code="41" name="/MOTOR_EN_1">
-      <node ref="U1" pin="14"/>
+      <node ref="U1" pin="6"/>
       <node ref="U8" pin="B1"/>
     </net>
     <net code="42" name="/MOTOR_EN_2">
-      <node ref="U1" pin="13"/>
       <node ref="U9" pin="B1"/>
+      <node ref="U1" pin="8"/>
     </net>
     <net code="43" name="/MOTOR_EN_3">
       <node ref="U1" pin="12"/>
       <node ref="U10" pin="B1"/>
     </net>
     <net code="44" name="/MOTOR_EN_4">
-      <node ref="U1" pin="8"/>
+      <node ref="U1" pin="14"/>
       <node ref="U11" pin="B1"/>
     </net>
     <net code="45" name="/MOTOR_EN_5">
-      <node ref="U1" pin="7"/>
       <node ref="U12" pin="B1"/>
+      <node ref="U1" pin="13"/>
     </net>
     <net code="46" name="/MOTOR_EN_6">
-      <node ref="U1" pin="6"/>
+      <node ref="U1" pin="7"/>
       <node ref="U13" pin="B1"/>
     </net>
     <net code="47" name="/MOTOR_EN_7">
       <node ref="U14" pin="B1"/>
-      <node ref="U1" pin="5"/>
+      <node ref="U1" pin="56"/>
     </net>
     <net code="48" name="/MOTOR_EN_8">
       <node ref="U15" pin="B1"/>
-      <node ref="U1" pin="4"/>
+      <node ref="U1" pin="57"/>
     </net>
     <net code="49" name="/MOTOR_EN_9">
-      <node ref="U1" pin="61"/>
       <node ref="U16" pin="B1"/>
+      <node ref="U1" pin="58"/>
     </net>
     <net code="50" name="/MOTOR_EN_10">
       <node ref="U17" pin="B1"/>
-      <node ref="U1" pin="60"/>
+      <node ref="U1" pin="59"/>
     </net>
     <net code="51" name="/MOTOR_EN_11">
       <node ref="U18" pin="B1"/>
-      <node ref="U1" pin="59"/>
+      <node ref="U1" pin="60"/>
     </net>
     <net code="52" name="/MOTOR_EN_12">
       <node ref="U19" pin="B1"/>
-      <node ref="U1" pin="58"/>
+      <node ref="U1" pin="61"/>
     </net>
     <net code="53" name="/MOTOR_EN_0">
       <node ref="U20" pin="B1"/>
-      <node ref="U1" pin="57"/>
+      <node ref="U1" pin="4"/>
     </net>
     <net code="54" name="/ACC_IRQ">
       <node ref="U1" pin="50"/>
       <node ref="U2" pin="6"/>
     </net>
     <net code="55" name="Net-(C4-Pad1)">
-      <node ref="C4" pin="1"/>
       <node ref="U2" pin="14"/>
+      <node ref="C4" pin="1"/>
     </net>
     <net code="56" name="Net-(U2-Pad7)">
       <node ref="U2" pin="7"/>
     </net>
     <net code="57" name="/MOTOR_PWM_12">
-      <node ref="U1" pin="38"/>
       <node ref="R36" pin="1"/>
+      <node ref="U1" pin="39"/>
     </net>
     <net code="58" name="/MOTOR_PWM_11">
+      <node ref="U1" pin="38"/>
       <node ref="R34" pin="1"/>
-      <node ref="U1" pin="37"/>
     </net>
     <net code="59" name="/MOTOR_PWM_10">
+      <node ref="U1" pin="37"/>
       <node ref="R32" pin="1"/>
-      <node ref="U1" pin="36"/>
     </net>
     <net code="60" name="/MOTOR_PWM_9">
-      <node ref="U1" pin="26"/>
+      <node ref="U1" pin="36"/>
       <node ref="R30" pin="1"/>
     </net>
     <net code="61" name="/MOTOR_PWM_8">
-      <node ref="U1" pin="25"/>
+      <node ref="U1" pin="26"/>
       <node ref="R28" pin="1"/>
     </net>
     <net code="62" name="/MOTOR_PWM_7">
-      <node ref="U1" pin="24"/>
+      <node ref="U1" pin="25"/>
       <node ref="R26" pin="1"/>
     </net>
     <net code="63" name="/MOTOR_PWM_6">
-      <node ref="U1" pin="21"/>
+      <node ref="U1" pin="24"/>
       <node ref="R24" pin="1"/>
     </net>
     <net code="64" name="/MOTOR_PWM_5">
-      <node ref="U1" pin="20"/>
+      <node ref="U1" pin="21"/>
       <node ref="R22" pin="1"/>
     </net>
     <net code="65" name="/MOTOR_PWM_4">
       <node ref="R20" pin="1"/>
-      <node ref="U1" pin="19"/>
+      <node ref="U1" pin="20"/>
     </net>
     <net code="66" name="/MOTOR_PWM_3">
-      <node ref="U1" pin="18"/>
       <node ref="R18" pin="1"/>
+      <node ref="U1" pin="19"/>
     </net>
     <net code="67" name="/MOTOR_PWM_2">
-      <node ref="U1" pin="17"/>
+      <node ref="U1" pin="18"/>
       <node ref="R16" pin="1"/>
     </net>
     <net code="68" name="/MOTOR_PWM_1">
-      <node ref="U1" pin="16"/>
       <node ref="R14" pin="1"/>
+      <node ref="U1" pin="17"/>
     </net>
     <net code="69" name="/MOTOR_PWM_0">
+      <node ref="U1" pin="16"/>
       <node ref="R38" pin="1"/>
-      <node ref="U1" pin="39"/>
     </net>
     <net code="70" name="Net-(J1-PadB8)">
       <node ref="J1" pin="B8"/>
@@ -1897,283 +1925,290 @@
     <net code="71" name="Net-(J1-PadA8)">
       <node ref="J1" pin="A8"/>
     </net>
-    <net code="72" name="Net-(J1-PadA7)">
-      <node ref="J1" pin="A7"/>
-      <node ref="J1" pin="B7"/>
-      <node ref="R3" pin="1"/>
-    </net>
-    <net code="73" name="Net-(J1-PadA6)">
-      <node ref="J1" pin="A6"/>
-      <node ref="J1" pin="B6"/>
-      <node ref="R4" pin="1"/>
-    </net>
-    <net code="74" name="Net-(J1-PadA5)">
-      <node ref="J1" pin="A5"/>
+    <net code="72" name="Net-(J1-PadA5)">
       <node ref="R1" pin="1"/>
+      <node ref="J1" pin="A5"/>
     </net>
-    <net code="75" name="Net-(J1-PadB5)">
+    <net code="73" name="Net-(J1-PadB5)">
       <node ref="J1" pin="B5"/>
       <node ref="R2" pin="1"/>
     </net>
-    <net code="76" name="/motor_drivers/OUT+_1">
-      <node ref="U8" pin="B3"/>
-      <node ref="C15" pin="1"/>
-      <node ref="R15" pin="2"/>
+    <net code="74" name="/REGIN">
+      <node ref="C12" pin="2"/>
+      <node ref="U6" pin="1"/>
+      <node ref="Q1" pin="3"/>
+      <node ref="D2" pin="1"/>
+      <node ref="R10" pin="1"/>
+    </net>
+    <net code="75" name="/D-">
+      <node ref="J1" pin="A7"/>
+      <node ref="R3" pin="1"/>
+      <node ref="J1" pin="B7"/>
+    </net>
+    <net code="76" name="/D+">
+      <node ref="R4" pin="1"/>
+      <node ref="J1" pin="A6"/>
+      <node ref="J1" pin="B6"/>
+    </net>
+    <net code="77" name="/motor_drivers/OUT+_1">
       <node ref="J6" pin="1"/>
+      <node ref="C15" pin="1"/>
+      <node ref="U8" pin="B3"/>
+      <node ref="R15" pin="2"/>
     </net>
-    <net code="77" name="/motor_drivers/OUT-_1">
-      <node ref="U8" pin="A1"/>
+    <net code="78" name="/motor_drivers/OUT-_1">
       <node ref="J6" pin="2"/>
+      <node ref="U8" pin="A1"/>
     </net>
-    <net code="78" name="/motor_drivers/OUT+_2">
-      <node ref="C16" pin="1"/>
+    <net code="79" name="/motor_drivers/OUT+_2">
       <node ref="R17" pin="2"/>
-      <node ref="U9" pin="B3"/>
       <node ref="J6" pin="3"/>
+      <node ref="U9" pin="B3"/>
+      <node ref="C16" pin="1"/>
     </net>
-    <net code="79" name="/motor_drivers/OUT-_2">
+    <net code="80" name="/motor_drivers/OUT-_2">
       <node ref="J6" pin="4"/>
       <node ref="U9" pin="A1"/>
     </net>
-    <net code="80" name="/motor_drivers/OUT+_3">
+    <net code="81" name="/motor_drivers/OUT+_3">
       <node ref="U10" pin="B3"/>
       <node ref="J6" pin="5"/>
       <node ref="R19" pin="2"/>
       <node ref="C17" pin="1"/>
     </net>
-    <net code="81" name="/motor_drivers/OUT-_3">
+    <net code="82" name="/motor_drivers/OUT-_3">
       <node ref="J6" pin="6"/>
       <node ref="U10" pin="A1"/>
     </net>
-    <net code="82" name="/motor_drivers/OUT+_4">
+    <net code="83" name="/motor_drivers/OUT+_4">
       <node ref="R21" pin="2"/>
       <node ref="C18" pin="1"/>
       <node ref="J6" pin="7"/>
       <node ref="U11" pin="B3"/>
     </net>
-    <net code="83" name="/motor_drivers/OUT-_4">
-      <node ref="U11" pin="A1"/>
+    <net code="84" name="/motor_drivers/OUT-_4">
       <node ref="J6" pin="8"/>
+      <node ref="U11" pin="A1"/>
     </net>
-    <net code="84" name="/motor_drivers/OUT-_5">
-      <node ref="U12" pin="A1"/>
+    <net code="85" name="/motor_drivers/OUT-_5">
       <node ref="J6" pin="10"/>
+      <node ref="U12" pin="A1"/>
     </net>
-    <net code="85" name="/motor_drivers/OUT-_6">
+    <net code="86" name="/motor_drivers/OUT-_6">
       <node ref="U13" pin="A1"/>
       <node ref="J6" pin="12"/>
     </net>
-    <net code="86" name="/motor_drivers/OUT+_7">
+    <net code="87" name="/motor_drivers/OUT+_7">
       <node ref="C21" pin="1"/>
       <node ref="U14" pin="B3"/>
       <node ref="J6" pin="13"/>
       <node ref="R27" pin="2"/>
     </net>
-    <net code="87" name="/motor_drivers/OUT-_7">
+    <net code="88" name="/motor_drivers/OUT-_7">
       <node ref="U14" pin="A1"/>
       <node ref="J6" pin="14"/>
     </net>
-    <net code="88" name="/motor_drivers/OUT+_8">
-      <node ref="U15" pin="B3"/>
+    <net code="89" name="/motor_drivers/OUT+_8">
       <node ref="C22" pin="1"/>
       <node ref="J6" pin="15"/>
+      <node ref="U15" pin="B3"/>
       <node ref="R29" pin="2"/>
     </net>
-    <net code="89" name="/motor_drivers/OUT-_8">
-      <node ref="U15" pin="A1"/>
+    <net code="90" name="/motor_drivers/OUT-_8">
       <node ref="J6" pin="16"/>
+      <node ref="U15" pin="A1"/>
     </net>
-    <net code="90" name="/motor_drivers/OUT-_9">
+    <net code="91" name="/motor_drivers/OUT-_9">
       <node ref="J6" pin="18"/>
       <node ref="U16" pin="A1"/>
     </net>
-    <net code="91" name="/motor_drivers/OUT-_10">
+    <net code="92" name="/motor_drivers/OUT-_10">
       <node ref="J6" pin="20"/>
       <node ref="U17" pin="A1"/>
     </net>
-    <net code="92" name="/motor_drivers/OUT+_11">
-      <node ref="R35" pin="2"/>
-      <node ref="U18" pin="B3"/>
+    <net code="93" name="/motor_drivers/OUT+_11">
       <node ref="J6" pin="21"/>
       <node ref="C25" pin="1"/>
+      <node ref="U18" pin="B3"/>
+      <node ref="R35" pin="2"/>
     </net>
-    <net code="93" name="/motor_drivers/OUT-_11">
+    <net code="94" name="/motor_drivers/OUT-_11">
       <node ref="J6" pin="22"/>
       <node ref="U18" pin="A1"/>
     </net>
-    <net code="94" name="/motor_drivers/OUT+_12">
-      <node ref="C26" pin="1"/>
+    <net code="95" name="/motor_drivers/OUT+_12">
       <node ref="R37" pin="2"/>
       <node ref="U19" pin="B3"/>
       <node ref="J6" pin="23"/>
+      <node ref="C26" pin="1"/>
     </net>
-    <net code="95" name="/motor_drivers/OUT-_12">
-      <node ref="U19" pin="A1"/>
+    <net code="96" name="/motor_drivers/OUT-_12">
       <node ref="J6" pin="24"/>
+      <node ref="U19" pin="A1"/>
     </net>
-    <net code="96" name="/motor_drivers/OUT+_0">
+    <net code="97" name="/motor_drivers/OUT+_0">
+      <node ref="R39" pin="2"/>
       <node ref="J7" pin="1"/>
       <node ref="C27" pin="1"/>
       <node ref="U20" pin="B3"/>
-      <node ref="R39" pin="2"/>
     </net>
-    <net code="97" name="/motor_drivers/OUT-_0">
+    <net code="98" name="/motor_drivers/OUT-_0">
       <node ref="J7" pin="2"/>
       <node ref="U20" pin="A1"/>
     </net>
-    <net code="98" name="/motor_drivers/OUT+_5">
-      <node ref="J6" pin="9"/>
+    <net code="99" name="/motor_drivers/OUT+_5">
       <node ref="R23" pin="2"/>
-      <node ref="C19" pin="1"/>
       <node ref="U12" pin="B3"/>
+      <node ref="J6" pin="9"/>
+      <node ref="C19" pin="1"/>
     </net>
-    <net code="99" name="/motor_drivers/OUT+_6">
+    <net code="100" name="/motor_drivers/OUT+_6">
       <node ref="R25" pin="2"/>
       <node ref="U13" pin="B3"/>
       <node ref="C20" pin="1"/>
       <node ref="J6" pin="11"/>
     </net>
-    <net code="100" name="/motor_drivers/OUT+_10">
-      <node ref="U17" pin="B3"/>
+    <net code="101" name="/motor_drivers/OUT+_10">
       <node ref="J6" pin="19"/>
-      <node ref="C24" pin="1"/>
       <node ref="R33" pin="2"/>
+      <node ref="C24" pin="1"/>
+      <node ref="U17" pin="B3"/>
     </net>
-    <net code="101" name="/motor_drivers/OUT+_9">
-      <node ref="J6" pin="17"/>
-      <node ref="C23" pin="1"/>
+    <net code="102" name="/motor_drivers/OUT+_9">
       <node ref="U16" pin="B3"/>
+      <node ref="C23" pin="1"/>
+      <node ref="J6" pin="17"/>
       <node ref="R31" pin="2"/>
     </net>
-    <net code="102" name="Net-(C15-Pad2)">
-      <node ref="R15" pin="1"/>
-      <node ref="R14" pin="2"/>
+    <net code="103" name="Net-(C15-Pad2)">
       <node ref="U8" pin="C3"/>
+      <node ref="R14" pin="2"/>
+      <node ref="R15" pin="1"/>
       <node ref="C15" pin="2"/>
     </net>
-    <net code="103" name="Net-(U8-PadC1)">
-      <node ref="U8" pin="C2"/>
+    <net code="104" name="Net-(U8-PadC1)">
       <node ref="U8" pin="C1"/>
+      <node ref="U8" pin="C2"/>
     </net>
-    <net code="104" name="Net-(C16-Pad2)">
-      <node ref="R17" pin="1"/>
+    <net code="105" name="Net-(C16-Pad2)">
       <node ref="C16" pin="2"/>
       <node ref="U9" pin="C3"/>
       <node ref="R16" pin="2"/>
+      <node ref="R17" pin="1"/>
     </net>
-    <net code="105" name="Net-(U9-PadC1)">
+    <net code="106" name="Net-(U9-PadC1)">
       <node ref="U9" pin="C1"/>
       <node ref="U9" pin="C2"/>
     </net>
-    <net code="106" name="Net-(C17-Pad2)">
-      <node ref="R19" pin="1"/>
-      <node ref="C17" pin="2"/>
+    <net code="107" name="Net-(C17-Pad2)">
       <node ref="R18" pin="2"/>
+      <node ref="C17" pin="2"/>
       <node ref="U10" pin="C3"/>
+      <node ref="R19" pin="1"/>
     </net>
-    <net code="107" name="Net-(U10-PadC1)">
+    <net code="108" name="Net-(U10-PadC1)">
       <node ref="U10" pin="C2"/>
       <node ref="U10" pin="C1"/>
     </net>
-    <net code="108" name="Net-(C18-Pad2)">
+    <net code="109" name="Net-(C18-Pad2)">
       <node ref="C18" pin="2"/>
       <node ref="U11" pin="C3"/>
-      <node ref="R20" pin="2"/>
       <node ref="R21" pin="1"/>
+      <node ref="R20" pin="2"/>
     </net>
-    <net code="109" name="Net-(U11-PadC1)">
-      <node ref="U11" pin="C1"/>
+    <net code="110" name="Net-(U11-PadC1)">
       <node ref="U11" pin="C2"/>
+      <node ref="U11" pin="C1"/>
     </net>
-    <net code="110" name="Net-(C19-Pad2)">
-      <node ref="C19" pin="2"/>
-      <node ref="U12" pin="C3"/>
-      <node ref="R22" pin="2"/>
+    <net code="111" name="Net-(C19-Pad2)">
       <node ref="R23" pin="1"/>
+      <node ref="R22" pin="2"/>
+      <node ref="U12" pin="C3"/>
+      <node ref="C19" pin="2"/>
     </net>
-    <net code="111" name="Net-(U12-PadC1)">
-      <node ref="U12" pin="C1"/>
+    <net code="112" name="Net-(U12-PadC1)">
       <node ref="U12" pin="C2"/>
+      <node ref="U12" pin="C1"/>
     </net>
-    <net code="112" name="Net-(C20-Pad2)">
-      <node ref="C20" pin="2"/>
-      <node ref="U13" pin="C3"/>
+    <net code="113" name="Net-(C20-Pad2)">
       <node ref="R24" pin="2"/>
       <node ref="R25" pin="1"/>
+      <node ref="U13" pin="C3"/>
+      <node ref="C20" pin="2"/>
     </net>
-    <net code="113" name="Net-(U13-PadC1)">
-      <node ref="U13" pin="C1"/>
+    <net code="114" name="Net-(U13-PadC1)">
       <node ref="U13" pin="C2"/>
+      <node ref="U13" pin="C1"/>
     </net>
-    <net code="114" name="Net-(C21-Pad2)">
-      <node ref="C21" pin="2"/>
+    <net code="115" name="Net-(C21-Pad2)">
       <node ref="U14" pin="C3"/>
-      <node ref="R26" pin="2"/>
+      <node ref="C21" pin="2"/>
       <node ref="R27" pin="1"/>
+      <node ref="R26" pin="2"/>
     </net>
-    <net code="115" name="Net-(U14-PadC1)">
+    <net code="116" name="Net-(U14-PadC1)">
       <node ref="U14" pin="C1"/>
       <node ref="U14" pin="C2"/>
     </net>
-    <net code="116" name="Net-(C22-Pad2)">
+    <net code="117" name="Net-(C22-Pad2)">
       <node ref="R28" pin="2"/>
+      <node ref="C22" pin="2"/>
       <node ref="R29" pin="1"/>
       <node ref="U15" pin="C3"/>
-      <node ref="C22" pin="2"/>
     </net>
-    <net code="117" name="Net-(U15-PadC1)">
+    <net code="118" name="Net-(U15-PadC1)">
       <node ref="U15" pin="C1"/>
       <node ref="U15" pin="C2"/>
     </net>
-    <net code="118" name="Net-(C23-Pad2)">
-      <node ref="C23" pin="2"/>
-      <node ref="R31" pin="1"/>
+    <net code="119" name="Net-(C23-Pad2)">
       <node ref="R30" pin="2"/>
       <node ref="U16" pin="C3"/>
+      <node ref="C23" pin="2"/>
+      <node ref="R31" pin="1"/>
     </net>
-    <net code="119" name="Net-(U16-PadC1)">
-      <node ref="U16" pin="C1"/>
+    <net code="120" name="Net-(U16-PadC1)">
       <node ref="U16" pin="C2"/>
+      <node ref="U16" pin="C1"/>
     </net>
-    <net code="120" name="Net-(C24-Pad2)">
+    <net code="121" name="Net-(C24-Pad2)">
+      <node ref="R33" pin="1"/>
+      <node ref="R32" pin="2"/>
       <node ref="U17" pin="C3"/>
       <node ref="C24" pin="2"/>
-      <node ref="R32" pin="2"/>
-      <node ref="R33" pin="1"/>
     </net>
-    <net code="121" name="Net-(U17-PadC1)">
+    <net code="122" name="Net-(U17-PadC1)">
       <node ref="U17" pin="C2"/>
       <node ref="U17" pin="C1"/>
     </net>
-    <net code="122" name="Net-(C25-Pad2)">
-      <node ref="C25" pin="2"/>
-      <node ref="R35" pin="1"/>
+    <net code="123" name="Net-(C25-Pad2)">
       <node ref="U18" pin="C3"/>
       <node ref="R34" pin="2"/>
+      <node ref="C25" pin="2"/>
+      <node ref="R35" pin="1"/>
     </net>
-    <net code="123" name="Net-(U18-PadC1)">
+    <net code="124" name="Net-(U18-PadC1)">
       <node ref="U18" pin="C2"/>
       <node ref="U18" pin="C1"/>
     </net>
-    <net code="124" name="Net-(C26-Pad2)">
-      <node ref="R37" pin="1"/>
+    <net code="125" name="Net-(C26-Pad2)">
       <node ref="U19" pin="C3"/>
-      <node ref="C26" pin="2"/>
       <node ref="R36" pin="2"/>
+      <node ref="R37" pin="1"/>
+      <node ref="C26" pin="2"/>
     </net>
-    <net code="125" name="Net-(U19-PadC1)">
+    <net code="126" name="Net-(U19-PadC1)">
       <node ref="U19" pin="C1"/>
       <node ref="U19" pin="C2"/>
     </net>
-    <net code="126" name="Net-(C27-Pad2)">
+    <net code="127" name="Net-(C27-Pad2)">
+      <node ref="R39" pin="1"/>
       <node ref="R38" pin="2"/>
       <node ref="U20" pin="C3"/>
       <node ref="C27" pin="2"/>
-      <node ref="R39" pin="1"/>
     </net>
-    <net code="127" name="Net-(U20-PadC1)">
-      <node ref="U20" pin="C2"/>
+    <net code="128" name="Net-(U20-PadC1)">
       <node ref="U20" pin="C1"/>
+      <node ref="U20" pin="C2"/>
     </net>
   </nets>
 </export>
