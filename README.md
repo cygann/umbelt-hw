@@ -47,6 +47,15 @@ Schematics can be found [here](umbelt-board/umbelt-board.pdf).
 
 ![board layout image](pics/board-layout.png)
 
+# Related Repositories
+
+[Software](https://github.com/cygann/umbelt-sw). Haptic effects, sensor
+libraries, and user programs.
+
+[Bootloader](https://github.com/cygann/Adafruit_nRF52_Bootloader). This
+is a modified version of the Adafruit Feather nRF52840 Sense bootloader, and
+that target is to be used when compiling and flashing.
+
 # License
 
 _Creators' note: The aim of this license is to be semi-permissive: Umbelt may
