@@ -7,7 +7,7 @@
       "Application": "Pcbnew",
       "Version":     "(5.1.10-1-10_14)"
     },
-    "CreationDate":  "2021-09-19T22:53:24-07:00"
+    "CreationDate":  "2022-01-16T17:40:32-08:00"
   },
   "GeneralSpecs":
   {
@@ -15,7 +15,7 @@
     {
       "Name": "umbelt-board",
       "GUID": "756d6265-6c74-42d6-926f-6172642e6b69",
-      "Revision": "1.0"
+      "Revision": "1.0.1"
     },
     "Size":
     {

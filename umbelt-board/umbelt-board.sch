@@ -6,7 +6,7 @@ encoding utf-8
 Sheet 1 15
 Title "Umbelt Board"
 Date ""
-Rev "1.0"
+Rev "1.0.1"
 Comp ""
 Comment1 "Source location: https://github.com/cygann/umbelt-hw"
 Comment2 "Licensed under the CERN-OHL-W v2 or later"
@@ -766,9 +766,9 @@ Wire Wire Line
 	2600 3800 2600 3300
 Text Notes 2900 5300 0    50   ~ 0
 I2C PULLUPS
-Text Label 3100 5950 2    50   ~ 0
-SCL
 Text Label 3500 5950 2    50   ~ 0
+SCL
+Text Label 3100 5950 2    50   ~ 0
 SDA
 $Comp
 L power:+3.3V #PWR036
@@ -1392,9 +1392,9 @@ F 4 "Addr=7'h30" H 4300 5350 50  0000 C CNN "Addr"
 	1    4300 5650
 	1    0    0    -1  
 $EndComp
-Text Label 3800 5700 0    50   ~ 0
-SCL
 Text Label 3800 5600 0    50   ~ 0
+SCL
+Text Label 3800 5700 0    50   ~ 0
 SDA
 Wire Wire Line
 	3800 5700 4000 5700

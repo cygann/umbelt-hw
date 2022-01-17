@@ -6,7 +6,7 @@ encoding utf-8
 Sheet 2 15
 Title "Umbelt Board"
 Date ""
-Rev "1.0"
+Rev "1.0.1"
 Comp ""
 Comment1 "Source location: https://github.com/cygann/umbelt-hw"
 Comment2 "Licensed under the CERN-OHL-W v2 or later"
